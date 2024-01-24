@@ -2,7 +2,7 @@
 -- Hour, minutes, seconds --
 
 Nexys A7: FPGA Trainer Board Recommended for ECE Curriculum. 
-  VHDL Code
+ --VHDL Code
 
 Member : 
 Fatih Zain Alghifari - 2602165436  
