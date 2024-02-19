@@ -1,7 +1,7 @@
 # Stopwatch-24-Hour with Vivado 2023.1 
 -- Hour, minutes, seconds --
 
-Nexys A7: FPGA Trainer Board Recommended for ECE Curriculum. 
+Nexys A7 100T : FPGA Trainer Board Recommended for ECE Curriculum. 
  --VHDL Code
 
 Member : 
